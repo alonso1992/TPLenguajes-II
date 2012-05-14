@@ -1,4 +1,7 @@
 #Programa escrito en Python 2.5, para ejecutarlo se debe tener esta distribucion
+#Erick Monge Angulo
+#Rafael Oliver Murillo
+#Marvin Suarez Benson
 
 from pyswip import *
 #from Tkinter import *
